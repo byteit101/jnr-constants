@@ -5,7 +5,7 @@
     <groupId>com.github.jnr</groupId>
     <artifactId>jnr-parent</artifactId>
     <version>0.0.1</version>
-    <relativePath/>
+    <relativePath />
   </parent>
 
   <artifactId>jnr-constants</artifactId>
@@ -27,6 +27,7 @@
     <connection>scm:git:git@github.com:jnr/jnr-constants.git</connection>
     <developerConnection>scm:git:git@github.com:jnr/jnr-constants.git</developerConnection>
     <url>git@github.com:jnr/jnr-constants.git</url>
+    <tag>release-1.3</tag>
   </scm>
 
   <developers>
