@@ -10,7 +10,7 @@
 
   <artifactId>jnr-constants</artifactId>
   <packaging>jar</packaging>
-  <version>0.11.1</version>
+  <version>0.11.2-SNAPSHOT</version>
   <name>jnr-constants</name>
   <description>A set of platform constants (e.g. errno values)</description>
   <url>http://github.com/jnr/jnr-constants</url>
